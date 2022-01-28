@@ -1,5 +1,7 @@
 # Custom files
 *.csv
+*.zip
+*.gz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
